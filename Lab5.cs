@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab5
+namespace generics
 {
-    class generics
+    class Lab5
         {
             static void Main(string[] args)
             {
