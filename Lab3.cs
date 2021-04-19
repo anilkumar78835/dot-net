@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab3
+namespace Events_delegates
 {
         public delegate void EventHandler(string a);
 
@@ -26,7 +26,7 @@ namespace lab3
             }
         }
 
-        class delegates
+        class Lab3
     {
             public static void CatchEvent(string s)
             {
