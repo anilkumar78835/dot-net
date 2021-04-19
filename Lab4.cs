@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace lab4
+namespace Thread
 {
-    class thread_program
+    class Lab4
     {
         public static void Main()
         {
