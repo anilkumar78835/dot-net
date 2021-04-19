@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab2
+namespace Exception_handling
 {
-    public class ExExample
+    public class Lab2
     {
         public static void Main(string[] args)
         {
